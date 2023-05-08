@@ -2,7 +2,7 @@
   width: 50vh;
   display: grid;
   grid-template-rows: 10vw 35vw 20vh;
-  grid-template-columns: 55h 85vh 60vh;
+  grid-template-columns: 55vh 85vh 60vh;
   column-gap: 10px;
   margin: 1.25% 2%;
   font-size: 1.25rem;
