@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ANIMESAMA/static/css/main.2bef6a95.css",
-    "main.js": "/ANIMESAMA/static/js/main.945dbd8a.js",
+    "main.css": "/ANIMESAMA/static/css/main.ab66907f.css",
+    "main.js": "/ANIMESAMA/static/js/main.fb5473e0.js",
     "static/js/787.7fadc70d.chunk.js": "/ANIMESAMA/static/js/787.7fadc70d.chunk.js",
     "static/media/front_bluep.png": "/ANIMESAMA/static/media/front_bluep.b7f8d2fa6e5e0698cea9.png",
     "static/media/bg_bluep.png": "/ANIMESAMA/static/media/bg_bluep.8e1281711f5f9c7e6060.png",
@@ -13,12 +13,12 @@
     "static/media/bg-silent.png": "/ANIMESAMA/static/media/bg-silent.79ca44d8135b0975978d.png",
     "static/media/bg3.svg": "/ANIMESAMA/static/media/bg3.c16c5d02564719c08ddc.svg",
     "index.html": "/ANIMESAMA/index.html",
-    "main.2bef6a95.css.map": "/ANIMESAMA/static/css/main.2bef6a95.css.map",
-    "main.945dbd8a.js.map": "/ANIMESAMA/static/js/main.945dbd8a.js.map",
+    "main.ab66907f.css.map": "/ANIMESAMA/static/css/main.ab66907f.css.map",
+    "main.fb5473e0.js.map": "/ANIMESAMA/static/js/main.fb5473e0.js.map",
     "787.7fadc70d.chunk.js.map": "/ANIMESAMA/static/js/787.7fadc70d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bef6a95.css",
-    "static/js/main.945dbd8a.js"
+    "static/css/main.ab66907f.css",
+    "static/js/main.fb5473e0.js"
   ]
 }
