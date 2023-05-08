@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# ANIMEsama
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my ReactJS project that I was creating for a long time.As being a anime fan as well as a developer I decide to put up myskill for this. This website is the clone of the "BACKSTAGETALK" but I have added my touch to it but rest of the functionallity is same.
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### The challenge
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To took up the challenge of make a clone of website **BackStageTalk**. This website fascinated me in an instance beacuse of its UI. The features of "ANIMEsama" is not whole of the clonned website but I have tried my best in my knowledge to make one adding my own ideas to it.
 
-### `npm test`
+- This website will be showing summaries of each listed anime along with their
+  - production studio
+  - writer
+  - director
+  - name
+  - where user can watch it.
+- User have to click one of the listed anime names to view desired one.
+- To view Anime Quotes (❁´◡`❁) user have to click on the top-right corner of the page.
+  - There will be 10 random anime quotes along with anime names.
+  - To change quotes click on the **naruto button** for new quotes (●'◡'●).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### _For the Time Being this Website is resposive only for the desktop_
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![HOME PAGE](<src/ScreenShots/Screenshot%20(516).png>)
+![QUOTE PAGE](<src/ScreenShots/Screenshot%20(517).png>)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Links
 
-### `npm run eject`
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## My process
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Built with
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [React](https://reactjs.org/) - JS library
+- CSS custom properties
+- Flexbox
+- CSS Grid
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Continued development
 
-## Learn More
+Though ANIMEsama is not a perfect (＞︿＜) replica of the main Website i.e. BackStagetalk and need a lot of work.
+**I will be working on its responsivenes and improve the interactivity of it and will add some animation to (‾◡◝).**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Furthur,I will add search bar soon ,so the user will be able to search the quote from character name and anime names
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+### Useful resources
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+The resources I have used are countless but I will be listing some (apis,tools) used while creating this website.
 
-### Analyzing the Bundle Size
+- [animechan](https://animechan.vercel.app/) - Well I have used its api for fetching the quote. I was able to integerat it perfectly and made a nice page of it.
+- [Flaticon](https://www.flaticon.com/) - A really helpful platfrom for icons.
+- [haikei](https://app.haikei.app/) - Background generating platform ,a lots of bakcground could be generated and customised I really liked it.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Author
 
-### Making a Progressive Web App
+Find me here !! (●'◡'●)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- LinkedIn -[RUCHI](https://www.linkedin.com/in/ruchi-deo/)
+- Twitter - [@simple_smipe9](https://twitter.com/simple_smile9)
 
-### Advanced Configuration
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I am thankful to all the articles, blogs , youtube videos out there over internet where I looked for references when ever I stucked.
+The idea of clonning the website came from the [frontendpractice](https://www.frontendpractice.com/) they have a lot of website to practiced on so I added my touched to the website that I decided to create.

@@ -1,0 +1,66 @@
+.image-scrolled {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  opacity: 1;
+  z-index: -31;
+  transition: all ease-in 0.2s;
+}
+
+.image_front {
+  width: 35vw;
+  border-radius: 12px;
+  box-shadow: 1px 2px 10px rgb(97, 95, 95);
+}
+
+.scroll-image {
+  height: 100%;
+  width: 100vh;
+  overflow-y: hidden;
+  scroll-snap-type: y mandatory;
+  grid-area: 1/2/3/2;
+}
+
+.container-image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  scroll-snap-align: start;
+  scroll-behavior: smooth;
+  height: 100%;
+  width: 40vw;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.anime-name {
+  font-style: Bold;
+  font-weight: 700;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  z-index: 33;
+}
+
+.image1 {
+  background-image: url("../images_folder/bg-silent.png");
+}
+.image2 {
+  background-image: url("../images_folder/bg_bluep.png");
+}
+.image3 {
+  background-image: url("../images_folder/bg_garder.png");
+}
+.image4 {
+  background-image: url("../images_folder/bg_gojo.png");
+}

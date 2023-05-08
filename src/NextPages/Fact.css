@@ -1,0 +1,48 @@
+.quote-section {
+  height: 100vh;
+  width: 100%;
+  background-image: url(./bg3.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1.25%;
+  color: wheat;
+}
+.box-of-quotes {
+  padding: 3%;
+  background-color: #e6b16333;
+  border-radius: 12px;
+  width: 100%;
+  color: #fcfdff;
+  font-size: 1.25rem;
+  overflow: scroll;
+}
+.shine {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.button-style {
+  text-align: center;
+  width: 14%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.imag-icon {
+  width: 50%;
+}
+@media screen and (min-width: 320px) and (max-width: 720px) {
+  .quote-section {
+    height: auto;
+    padding: 5%;
+  }
+
+  .button-style {
+    width: 50%;
+  }
+}
