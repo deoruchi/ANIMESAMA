@@ -76,7 +76,7 @@ The resources I have used are countless but I will be listing some (apis,tools) 
 Find me here !! (●'◡'●)
 
 - LinkedIn -[RUCHI](https://www.linkedin.com/in/ruchi-deo/)
-- Twitter - [@simple_smipe9](https://twitter.com/simple_smile9)
+- Twitter - [@simple_smiple9](https://twitter.com/simple_smile9)
 
 ## Acknowledgments
 

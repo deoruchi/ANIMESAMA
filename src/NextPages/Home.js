@@ -57,8 +57,6 @@ export default function Home(props) {
         title="click to see the anime data"
       />
       <br></br>
-
-      <div>Made with 💖 by Ruchi</div>
     </article>
   );
 }

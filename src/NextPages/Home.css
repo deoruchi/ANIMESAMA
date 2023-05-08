@@ -58,6 +58,9 @@ h1 {
   text-decoration: none;
 }
 
+.footer-mark {
+  grid-area: 3/2/4/3;
+}
 /* @media screen and (max-width: 425px) {
   .section-body {
     display: flex;
